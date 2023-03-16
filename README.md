@@ -10,6 +10,8 @@ Projeto em Java onde nos foi solicitado para nós Devs a criação de um convers
      - Converter de Reais a Ienes Japonês     
      - Converter de Reais a Won sul-coreano
 
+Lembrando que deve ser possível também converter de forma inversa ou seja:
+
   | Moedas         | Conversões                            |
   | -------------- | ------------------------------------- |
   | `BRL` - `USD`  | Converter de Reais a Dólar            |
