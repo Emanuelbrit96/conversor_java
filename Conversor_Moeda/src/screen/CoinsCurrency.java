@@ -21,7 +21,7 @@ public class CoinsCurrency extends ScreenPadrao {
 
 	public CoinsCurrency() {
 		setIconImage(Toolkit.getDefaultToolkit()
-				.getImage("C:\\Users\\emanu\\Documents\\Alura\\Java\\Conversor_Moeda\\src\\img\\currency_exchang.png"));
+				.getImage("C:\\Users\\emanu\\git\\repository\\Conversor_Moeda\\src\\img\\currency_exchang.png"));
 		setTitle("Conversor de Moeda");
 		getContentPane().setBackground(new Color(150, 255, 150));
 

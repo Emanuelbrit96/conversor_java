@@ -46,7 +46,7 @@ public class Main extends JFrame {
 		getContentPane().setBackground(new Color(25, 25, 112));
 
 		setIconImage(Toolkit.getDefaultToolkit().getImage(
-				"C:\\Users\\emanu\\Documents\\Alura\\Java\\Conversor_Moeda\\src\\img\\autorenew_FILL0_wght400_GRAD0_opsz48.png"));
+				"C:\\Users\\emanu\\git\\repository\\Conversor_Moeda\\src\\img\\autorenew_FILL0_wght400_GRAD0_opsz48.png"));
 		setResizable(false);
 		setTitle("Conversor");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

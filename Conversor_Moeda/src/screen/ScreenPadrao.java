@@ -136,7 +136,7 @@ abstract public class ScreenPadrao extends JFrame {
 		// Botão de Conversão
 		setBtnCurrency(new JButton(""));
 		getBtnCurrency().setIcon(
-				new ImageIcon("C:\\Users\\emanu\\Documents\\Alura\\Java\\Conversor_Moeda\\src\\img\\sync_alt.png"));
+				new ImageIcon("C:\\Users\\emanu\\git\\repository\\Conversor_Moeda\\src\\img\\sync_alt.png"));
 		getBtnCurrency().addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				if (!getTextInput().getText().equals("")) {// O valor do input for diferente de vazio
