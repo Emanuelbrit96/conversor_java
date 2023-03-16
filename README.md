@@ -1,5 +1,5 @@
 
-<img src='https://user-images.githubusercontent.com/94019015/225505303-9db44df3-9693-461d-a866-362f77e45485.png' width='15%'>
+<img src='https://user-images.githubusercontent.com/94019015/225505303-9db44df3-9693-461d-a866-362f77e45485.png' width='10%'>
 
 
 # Challenge ONE Back End - Java
