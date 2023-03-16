@@ -41,8 +41,8 @@ As variações ocorrem entre as diversas moedas:
   Implementação do Conversor de Temperatura.
  
  # EM BREVE...
-   - Novos conversores como de medida, peso entre outro.
-   - Utilização de uma API para que as conversão das moedas possam se atualizar com a variação das moedas 
+   - Novos conversores como de medida, peso entre outros.
+   - Utilização de uma API para que as conversão das moedas possam se atualizar com a variação das moedas .
 <br>
 
 <div align ="right">
