@@ -20,10 +20,9 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
   | `BRL` - `JPY`  | Converter de Reais a Ienes Japonês    |
   | `BRL` - `KRW`  | Converter de Reais a Won sul-coreano  |
   
-
-<img src='./Conversor_Moeda/src/img/git_program.gif' width='70%'> <br>
-
-
+<br>
+<img src='./Conversor_Moeda/src/img/git_program.gif' width='60%'> 
+<br>
 
 # Tecnologia Utilizado neste projeto.
   |              |               |
