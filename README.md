@@ -1,3 +1,7 @@
+
+<img src='https://user-images.githubusercontent.com/94019015/225505303-9db44df3-9693-461d-a866-362f77e45485.png' width='15%'>
+
+
 # Challenge ONE Back End - Java
 
 
@@ -10,7 +14,7 @@ Projeto em Java onde nos foi solicitado para nós Devs a criação de um convers
   - Converter de Reais a Ienes Japonês;     
   - Converter de Reais a Won sul-coreano;
 
-Lembrando que deve ser possível também converter de forma inversa ou seja:
+As variações ocorrem entre as diversas moedas:
 
   | Moedas         | Conversões                            |
   | -------------- | ------------------------------------- |
@@ -28,7 +32,7 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
   |              |               |
   | ------------ | ------------- |
   | `Linguaguem` | Java 8        |
-  |    `IDE`     | Eclips        |
+  |    `IDE`     | Eclipse       |
   |   `Plugin`   | Window Builder|
   |    `GUI`     | SWT Designer  |
     
@@ -38,5 +42,9 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
  
  # EM BREVE...
    - Novos conversores como de medida, peso entre outro.
-   - Utilização de uma API para que as conversão das moedas possam se atualizar com a variação das mesmas. 
- 
+   - Utilização de uma API para que as conversão das moedas possam se atualizar com a variação das moedas 
+<br>
+
+<div align ="right">
+<img src='https://www.acate.com.br/wp-content/uploads/2021/11/site-acate-1500x750-50-1200x460.png' width='50%'>
+</div>
