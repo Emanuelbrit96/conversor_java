@@ -34,5 +34,9 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
     
   
  # EXTRAS
-  Implementação do Conversor de Temperatura
+  Implementação do Conversor de Temperatura.
+ 
+ # EM BREVE...
+   - Novos conversores como de medida, peso entre outro.
+   - Utilização de uma API para que as conversão das moedas possam se atualizar com a variação das moedas 
  
