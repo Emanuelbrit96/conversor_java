@@ -42,7 +42,6 @@ abstract public class ScreenPadrao extends JFrame {
 	public void setLs(List<String> ls) {
 		getDeMoeda().setModel(new DefaultComboBoxModel<String>(ls.toArray(new String[0])));
 		paraMoeda.setModel(new DefaultComboBoxModel<String>(ls.toArray(new String[0])));
-
 	}
 
 	public static void main(String[] args) {
