@@ -106,13 +106,13 @@ abstract public class ScreenPadrao extends JFrame {
 		setLblOutPutValue(new JLabel(""));
 		getLblOutPutValue().setHorizontalAlignment(SwingConstants.RIGHT);// Alinhar Right
 		getLblOutPutValue().setFont(new Font("Arial Rounded MT Bold", Font.PLAIN, 16));
-		getLblOutPutValue().setBounds(169, 130, 81, 30);
+		getLblOutPutValue().setBounds(161, 130, 81, 30);
 		contentPane.add(getLblOutPutValue());
 
 		// Label que imprime o nome da moeda - (Tornar o nome da variavel mais generico
 		setLblOutPutCoin(new JLabel(""));
 		getLblOutPutCoin().setFont(new Font("Arial Rounded MT Bold", Font.PLAIN, 16));
-		getLblOutPutCoin().setBounds(251, 130, 81, 30);
+		getLblOutPutCoin().setBounds(251, 130, 165, 30);
 		contentPane.add(getLblOutPutCoin());
 		// Label do input de valor
 		JLabel lblNewLabel_1 = new JLabel("Insira um valor:");

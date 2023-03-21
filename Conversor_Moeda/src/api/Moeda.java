@@ -50,11 +50,6 @@ public class Moeda {
 			return decimalFormat.format(value);
 		}
 		return decimalFormat.format(valor);
-		
-		
-		
-		
-		
 
 //		DecimalFormat decimalFormat = new DecimalFormat("#.##");
 //		switch (primeiraMoeda) {
