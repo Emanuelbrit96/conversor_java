@@ -53,6 +53,7 @@ public class Api {
         Api converter = new Api(Currency.getInstance("USD"), Currency.getInstance("EUR"), BigDecimal.valueOf(0.83));
         BigDecimal amount = BigDecimal.valueOf(1000);
         BigDecimal convertedAmount = converter.convert(amount);
+        
         System.out.println(amount + " " + converter.fromCurrency + " = " + convertedAmount + " " + converter.toCurrency);
     }
 }
